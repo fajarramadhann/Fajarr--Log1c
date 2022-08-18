@@ -1,3 +1,3 @@
-# Fajarr--Log1c
+# Hello Fajar There
 
-```HELLO MY NAME FAJAR```
+```Hello i'm a student and a FrontEnd Web Developer Junior```
